@@ -1456,14 +1456,5 @@
       "collections":"Patterns",
       "dimensions":"2000 x 4000 px",
       "downloadable":true
-   },
-   {
-      "name":"wall",
-      "author":"kevin",
-      "url":"input url here",
-      "thumbnail":"input url here",
-      "collections":"category name",
-      "dimensions":"2000 x 4000 px",
-      "downloadable":true
    }
 ]
