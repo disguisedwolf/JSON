@@ -1,0 +1,7 @@
+[{
+	"amoled": "https://raw.githubusercontent.com/disguisedwolf/JSON/main/amoled.json",
+	"gradients": "https://raw.githubusercontent.com/disguisedwolf/JSON/main/gradients.json",
+	"landscape": "https://raw.githubusercontent.com/disguisedwolf/JSON/main/land_scape.json",
+	"minimal": "https://raw.githubusercontent.com/disguisedwolf/JSON/main/minimal.json",
+	"patterns": "https://raw.githubusercontent.com/disguisedwolf/JSON/main/patterns.json"
+}]
