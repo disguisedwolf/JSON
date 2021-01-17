@@ -1,4 +1,79 @@
 [{
+		"name": "Panther",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Amoled/raw/main/amoled_35.png",
+		"thumbnail": "https://github.com/disguisedwolf/Amoled-Thumb/raw/main/amoled_35.png",
+		"collections": "Amoled",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
+	{
+		"name": "Bubble Gum",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Amoled/raw/main/amoled_34.png",
+		"thumbnail": "https://github.com/disguisedwolf/Amoled-Thumb/raw/main/amoled_34.png",
+		"collections": "Amoled",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
+	{
+		"name": "Line-Style",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Amoled/raw/main/amoled_31.png",
+		"thumbnail": "https://github.com/disguisedwolf/Amoled-Thumb/raw/main/amoled_31.png",
+		"collections": "Amoled",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
+	{
+		"name": "Glossy Gradient",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Gradient/raw/main/gradient_13.png",
+		"thumbnail": "https://github.com/disguisedwolf/Gradient-thumb/raw/main/gradient_13.jpg",
+		"collections": "Gradient",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
+	{
+		"name": "Neon Boy 002",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Amoled/raw/main/amoled_32.png",
+		"thumbnail": "https://github.com/disguisedwolf/Amoled-Thumb/raw/main/amoled_32.png",
+		"collections": "Amoled",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
+
+
+	{
+		"name": "BatMan Eyes",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Amoled/raw/main/amoled_30.png",
+		"thumbnail": "https://github.com/disguisedwolf/Amoled-Thumb/raw/main/amoled_30.png",
+		"collections": "Amoled",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
+
+	{
+		"name": "Smooth Mountains",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_69.png",
+		"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_69.png",
+		"collections": "Landscape",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
+	{
+		"name": "Star Fall",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_68.png",
+		"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_68.png",
+		"collections": "Landscape",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
+	{
 		"name": "Landscape 67",
 		"author": "Kevin Tailor",
 		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_67.png",
