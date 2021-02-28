@@ -1,4 +1,71 @@
-[{
+[
+	{
+		"name": "Planet X",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_76.png",
+		"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_76.png",
+		"collections": "Landscape",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	}, {
+		"name": "Dusty Mountains",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_75.png",
+		"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_75.png",
+		"collections": "Landscape",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	}, {
+		"name": "Hell Mountain",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_74.png",
+		"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_74.png",
+		"collections": "Landscape",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	}, {
+		"name": "Green Birds",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_73.png",
+		"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_73.png",
+		"collections": "Landscape",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	}, {
+		"name": "Stary Night",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_77.png",
+		"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_77.png",
+		"collections": "Landscape",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	}, {
+		"name": "Dawn Night",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_72.png",
+		"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_72.png",
+		"collections": "Landscape",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	}, {
+		"name": "Shady Mountains Varient",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_71.png",
+		"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_71.png",
+		"collections": "Landscape",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
+	{
+		"name": "Shady Mountains",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_70.png",
+		"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_70.png",
+		"collections": "Landscape",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
+	{
 		"name": "Landscape 67",
 		"author": "Kevin Tailor",
 		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_67.png",
