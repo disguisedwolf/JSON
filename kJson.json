@@ -680,15 +680,6 @@
 		"downloadable": true
 	},
 	{
-		"name": "Cactus Sun",
-		"author": "Kevin Tailor",
-		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_11.png",
-		"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_11.png",
-		"collections": "Landscape",
-		"dimensions": "2000 x 4000 px",
-		"downloadable": true
-	},
-	{
 		"name": "Snow Mountains",
 		"author": "Kevin Tailor",
 		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_12.png",
