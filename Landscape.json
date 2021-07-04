@@ -1,4 +1,12 @@
-[
+[{
+		"name": "Orange Sky",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Landscape/raw/main/Orange_sky.png",
+		"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/Orange_sky.png",
+		"collections": "Landscape",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
 	{
 		"name": "Planet X",
 		"author": "Kevin Tailor",
@@ -7,7 +15,8 @@
 		"collections": "Landscape",
 		"dimensions": "2000 x 4000 px",
 		"downloadable": true
-	}, {
+	},
+	{
 		"name": "Dusty Mountains",
 		"author": "Kevin Tailor",
 		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_75.png",
