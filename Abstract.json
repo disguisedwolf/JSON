@@ -1,16 +1,16 @@
 [{
-	"name": "Planet X",
+	"name": "Abstract-1",
 	"author": "Kevin Tailor",
-	"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_76.png",
-	"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_76.png",
+	"url": "https://github.com/disguisedwolf/Abstract/raw/main/abstract_1.png",
+	"thumbnail": "https://github.com/disguisedwolf/Abstract-Thumb/raw/main/abstract_1.png",
 	"collections": "Landscape",
 	"dimensions": "2000 x 4000 px",
 	"downloadable": true
 }, {
-	"name": "Dusty Mountains",
+	"name": "Abstract-2",
 	"author": "Kevin Tailor",
-	"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_75.png",
-	"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_75.png",
+	"url": "https://github.com/disguisedwolf/Abstract/raw/main/abstract_2.png",
+	"thumbnail": "https://github.com/disguisedwolf/Abstract-Thumb/raw/main/abstract_2.png",
 	"collections": "Landscape",
 	"dimensions": "2000 x 4000 px",
 	"downloadable": true
