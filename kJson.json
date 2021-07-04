@@ -1,4 +1,63 @@
 [{
+		"name": "Orange Sky",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Landscape/raw/main/Orange_sky.png",
+		"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/Orange_sky.png",
+		"collections": "Landscape",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
+	{
+		"name": "Minimal Egg",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Minimal/raw/main/minimal_egg.png",
+		"thumbnail": "https://github.com/disguisedwolf/Minimal-Thumb/raw/main/minimal_egg.png",
+		"collections": "Minimal",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
+	{
+		"name": "Pattern Bubble",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Patterns/raw/main/pattern_bubble.png",
+		"thumbnail": "https://github.com/disguisedwolf/Patterns-Thumb/raw/main/pattern_bubble.png",
+		"collections": "Patterns",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	}, {
+		"name": "Abstract-1",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Abstract/raw/main/abstract_1.png",
+		"thumbnail": "https://github.com/disguisedwolf/Abstract-Thumb/raw/main/abstract_1.png",
+		"collections": "Landscape",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	}, {
+		"name": "Abstract-2",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Abstract/raw/main/abstract_2.png",
+		"thumbnail": "https://github.com/disguisedwolf/Abstract-Thumb/raw/main/abstract_2.png",
+		"collections": "Landscape",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	}, {
+		"name": "Pattern Leaf",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Patterns/raw/main/pattern_leaf.png",
+		"thumbnail": "https://github.com/disguisedwolf/Patterns-Thumb/raw/main/pattern_leaf.png",
+		"collections": "Patterns",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	}, {
+		"name": "Pattern Xo",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Patterns/raw/main/pattern_xo.png",
+		"thumbnail": "https://github.com/disguisedwolf/Patterns-Thumb/raw/main/pattern_xo.png",
+		"collections": "Patterns",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
+	{
 		"name": "Planet X",
 		"author": "Kevin Tailor",
 		"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_76.png",
