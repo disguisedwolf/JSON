@@ -1,5 +1,28 @@
-[
-
+[{
+		"name": "Pattern Bubble",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Patterns/raw/main/pattern_bubble.png",
+		"thumbnail": "https://github.com/disguisedwolf/Patterns-Thumb/raw/main/pattern_bubble.png",
+		"collections": "Patterns",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	}, {
+		"name": "Pattern Leaf",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Patterns/raw/main/pattern_leaf.png",
+		"thumbnail": "https://github.com/disguisedwolf/Patterns-Thumb/raw/main/pattern_leaf.png",
+		"collections": "Patterns",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	}, {
+		"name": "Pattern Xo",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Patterns/raw/main/pattern_xo.png",
+		"thumbnail": "https://github.com/disguisedwolf/Patterns-Thumb/raw/main/pattern_xo.png",
+		"collections": "Patterns",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
+	},
 
 	{
 		"name": "Pattern_18",
