@@ -6,6 +6,14 @@
 		"collections": "Minimal",
 		"dimensions": "2000 x 4000 px",
 		"downloadable": true
+	},{
+		"name": "Mask",
+		"author": "Kevin Tailor",
+		"url": "https://github.com/disguisedwolf/Minimal/raw/main/minimal_egg.png",
+		"thumbnail": "https://github.com/disguisedwolf/Minimal-Thumb/raw/main/minimal_egg.png",
+		"collections": "Minimal",
+		"dimensions": "2000 x 4000 px",
+		"downloadable": true
 	},
 	{
 		"name": "Ice Cream 02",
