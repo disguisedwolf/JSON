@@ -1,0 +1,17 @@
+[{
+	"name": "Planet X",
+	"author": "Kevin Tailor",
+	"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_76.png",
+	"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_76.png",
+	"collections": "Landscape",
+	"dimensions": "2000 x 4000 px",
+	"downloadable": true
+}, {
+	"name": "Dusty Mountains",
+	"author": "Kevin Tailor",
+	"url": "https://github.com/disguisedwolf/Landscape/raw/main/landscape_75.png",
+	"thumbnail": "https://github.com/disguisedwolf/Landscape-Thumb/raw/main/landscape_75.png",
+	"collections": "Landscape",
+	"dimensions": "2000 x 4000 px",
+	"downloadable": true
+}]
