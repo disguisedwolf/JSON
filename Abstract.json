@@ -14,4 +14,12 @@
 	"collections": "Landscape",
 	"dimensions": "2000 x 4000 px",
 	"downloadable": true
+}, {
+	"name": "Pastel Blue",
+	"author": "Kevin Tailor",
+	"url": "https://github.com/disguisedwolf/Abstract/raw/main/abstract_3.png",
+	"thumbnail": "https://github.com/disguisedwolf/Abstract-Thumb/raw/main/abstract_3.png",
+	"collections": "Landscape",
+	"dimensions": "2000 x 4000 px",
+	"downloadable": true
 }]
